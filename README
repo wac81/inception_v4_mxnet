@@ -1,0 +1,8 @@
+Inception v4 , suittable for image with around 299 x 299
+
+Reference:
+    Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
+    Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke
+    arXiv.1602.07261
+
+__author__ = 'zhangshuai'
